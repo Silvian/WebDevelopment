@@ -1,0 +1,310 @@
+10
+
+dir
+2143
+http://closure-library.googlecode.com/svn/trunk/closure/goog
+http://closure-library.googlecode.com/svn
+
+
+
+2012-09-04T11:08:50.000000Z
+2141
+marja@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0b95b8e8-c90f-11de-9d4f-f947ee5921c8
+
+ui
+dir
+
+async
+dir
+
+disposable
+dir
+
+datasource
+dir
+
+uri
+dir
+
+webgl
+dir
+
+positioning
+dir
+
+events
+dir
+
+window
+dir
+
+fs
+dir
+
+json
+dir
+
+jsaction
+dir
+
+bootstrap
+dir
+
+fx
+dir
+
+messaging
+dir
+
+vec
+dir
+
+spell
+dir
+
+timer
+dir
+
+labs
+dir
+
+cssom
+dir
+
+base.js
+file
+
+
+
+
+2012-09-07T14:35:28.255024Z
+71c091d3e07f800d98bca97e878f299d
+2012-06-06T18:33:04.000000Z
+1955
+chrishenry@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47976
+
+net
+dir
+
+css
+dir
+
+stats
+dir
+
+style
+dir
+
+pubsub
+dir
+
+graphics
+dir
+
+gears
+dir
+
+iter
+dir
+
+throttle
+dir
+
+memoize
+dir
+
+object
+dir
+
+string
+dir
+
+structs
+dir
+
+functions
+dir
+
+soy
+dir
+
+array
+dir
+
+asserts
+dir
+
+db
+dir
+
+debug
+dir
+
+docs
+dir
+
+math
+dir
+
+useragent
+dir
+
+locale
+dir
+
+storage
+dir
+
+images
+dir
+
+demos
+dir
+
+tweak
+dir
+
+base_test.html
+file
+
+
+
+
+2012-09-07T14:35:28.255024Z
+a08f2d4086fd1a547386c8e09f208417
+2012-01-11T09:06:10.000000Z
+1511
+pallosp@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33837
+
+testing
+dir
+
+date
+dir
+
+color
+dir
+
+dom
+dir
+
+i18n
+dir
+
+reflect
+dir
+
+proto2
+dir
+
+module
+dir
+
+editor
+dir
+
+format
+dir
+
+crypt
+dir
+
+history
+dir
+
+proto
+dir
+
+deps.js
+file
+
+
+
+
+2012-09-07T14:35:28.255024Z
+9b944d88b002e53b27f7dabd0f1c29ef
+2012-09-03T14:46:18.000000Z
+2140
+azzie@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+214171
+

@@ -1,0 +1,144 @@
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	background: #000000;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #ffffff;
+}
+a {
+	color:#e3c13a;
+	text-decoration:underline;
+}
+a:hover {
+	color:#e3c13a;
+	text-decoration:none;
+}
+#container {
+	width: 100%;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}
+#header {
+	width:800px;
+	margin:0 auto;
+	height:86px;
+	background:url(../images/headerBackground.jpg) no-repeat left top;
+}
+#header .logo {
+	float:left;
+	padding-top:10px;
+}
+.logo h1 {
+	color:#FFFFFF;
+	font-size:50px;
+}
+.logo h1 span {
+	color:#e3c13a;
+}
+#header .developer {
+	margin-left:400px;
+	text-align:right;
+	padding-top:55px;
+}
+#menu {
+	width:100%;
+	text-align:center;
+	height:49px;
+	background:url(../images/menuBackground.gif) repeat-x left top;
+	padding-bottom:30px;
+}
+#siteBody {
+	width:800px;
+	margin:0 auto;
+}
+.bodyLeft {
+	width:565px;
+	float:left;
+	padding:5px 20px 5px 0;
+}
+.bodyRight {
+	width:193px;
+	margin-left:605px;
+	border-left:2px solid #1a1a1a;
+	padding:5px 0 5px 20px;
+}
+.clearer {
+	clear:both;
+}
+#footer {
+	width:800px;
+	height:70px;
+	background:#1a1a1a;
+	margin:40px 0;
+	text-align:center;
+	margin:20px auto;
+	padding:60px 0 0 0;
+}
+.bodyRight p {
+	margin-right:30px;
+}
+
+
+
+
+ul#navlist {
+	white-space: nowrap;
+	height:49px;
+	font-size:24px;
+	padding:10px 0 0 0;
+}
+
+#navlist li {
+	display: inline;
+	list-style-type: none;
+	border-left:1px solid #505050;
+	height:49px;
+}
+#navlist #current {
+	color:#e3c13a;
+}
+#navlist a { 
+	padding: 0 10px;
+}
+
+#navlist a:link, #navlist a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+#navlist a:hover {
+	color: #e3c13a;
+	text-decoration: none;
+}
+
+
+
+.bodyRight .sideContainer li {
+	list-style:none;
+	height:20px;
+	padding:2px 0;
+}
+.bodyRight .sideContainer li a {
+	background: url(../images/p.jpg) no-repeat left top;
+	padding-left:25px;
+	color:#e3c13a;
+	text-decoration:underline;
+	font-size:16px;
+}
+.bodyRight .sideContainer li a:hover {
+	background: url(../images/p.jpg) no-repeat 10px top;
+	padding-left:35px;
+	color:#e3c13a;
+	text-decoration:none;
+}
+
+
+
+.floaright {
+	float:right;
+	margin:0 0 20px 20px;
+}

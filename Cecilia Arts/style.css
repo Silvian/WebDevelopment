@@ -1,0 +1,66 @@
+BODY{margin:0px;font-size:12px;font-family:"trebuchet MS"; background-image:url(images/body-bg.jpg); background-repeat:repeat-x; background-color:#FFFFFF;}
+#header
+{height:190px; background-color:#FCE2BB;}
+.name
+{font-family:"Blackadder ITC"; font-style:italic; font-size:40px; color:#ff0000; padding-left:20px; height:90px;} 
+.name2
+{color:#FFFFFF;}
+.tag
+{color:#626262; font-size:18px; padding-left:15px;}
+#links-bg
+{height:40px; background-color:#ff0000;}
+.toplinks
+{width:110px; text-align:center; font-size:13px; font-weight:bold;}
+.toplinks a
+{color:#FFFFFF; text-decoration:none;}
+.toplinks a:hover
+{color:#111111; text-decoration:none;}
+.toplinks2
+{width:110px; text-align:center; font-size:13px; font-weight:bold; }
+.toplinks2 a
+{color:#111111; text-decoration:none;}
+.sap
+{width:1px; background-color:#CCCCCC;}
+.head2
+{font-family:tahoma; font-size:12px; font-weight:bold; color:#ffffff; height:35px; padding-left:12px; background-color:#969696; border-left:1px solid #ffffff;}
+.bottomlinks
+{width:110px; text-transform:uppercase; font-size:11px; font-weight:bold;text-align:center;}
+.bottomlinks a
+{color:#FFFFFF; text-decoration:none;}
+.bottomlinks a:hover
+{color:#000000;text-decoration:none;}
+.sap2{color:#FFFFFF;width:1px;}
+a{color:#ff0000; text-decoration:underline;}
+a:hover{color:#111111; text-decoration:none;}
+.pagelinks
+{ line-height:20px; color:#111111; width:60px;font-size:12px; font-weight:bold;text-align:center; background-color:#fbf89d; border:1px solid #ff0000;} 
+.pagelinks a
+{color:#111111; text-decoration:none;}
+.pagelinks a:hover
+{color:#ff0000; text-decoration:none; background-color:#111111; display:block;}
+#preview{ background-color:#fefae4; border:thin solid #fed49c;}
+#content .inner_copy {border:0;color:#f00;float:left;width:50%!important;margin:-202px 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:12px}
+body {margin:0; background:#4e0000; padding:5px; font:11px Verdana,Arial}
+#slideshow {list-style:none; color:#fff}
+#slideshow span {display:none}
+#wrapper {width:606px; margin:6px auto; display:none}
+#wrapper * {margin:0; padding:0}
+#fullsize {position:relative; width:600px; height:400px; padding:2px; border:1px solid #ccc; background:#000}
+#information {position:absolute; bottom:0; width:600px; height:0; background:#000; color:#fff; overflow:hidden; z-index:200; opacity:.7; filter:alpha}
+#information h3 {padding:4px 8px 3px; font-size:14px}
+#information p {padding:0 8px 8px}
+#image {width:600px}
+#image img {position:absolute; z-index:25; width:auto}
+.imgnav {position:absolute; width:25%; height:406px; cursor:pointer; z-index:150}
+#imgprev {left:0; background:url(images/left.gif) left center no-repeat}
+#imgnext {right:0; background:url(images/right.gif) right center no-repeat}
+#imglink {position:absolute; height:406px; width:100%; z-index:100; opacity:.4; filter:alpha}
+.linkover {background:url(images/link.gif) center center no-repeat}
+#thumbnails {margin-top:15px}
+#slideleft {float:left; width:20px; height:81px; background:url(images/scroll-left.gif) center center no-repeat; background-color:#222}
+#slideleft:hover {background-color:#333}
+#slideright {float:right; width:20px; height:81px; background:#222 url(images/scroll-right.gif) center center no-repeat}
+#slideright:hover {background-color:#333}
+#slidearea {float:left; position:relative; width:556px; margin-left:5px; height:81px; overflow:hidden}
+#slider {position:absolute; left:0; height:81px}
+#slider img {cursor:pointer; border:1px solid #666; padding:2px}

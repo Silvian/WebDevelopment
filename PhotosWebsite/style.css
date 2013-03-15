@@ -1,0 +1,38 @@
+BODY{margin:0px;font-size:12px;font-family:"trebuchet MS"; background-image:url(images/body-bg.jpg); background-repeat:repeat-x; background-color:#FFFFFF;}
+#header
+{height:190px; background-color:#FCE2BB;}
+.name
+{font-size:40px; color:#ff0000; padding-left:20px; height:90px;} 
+.name2
+{color:#FFFFFF;}
+.tag
+{color:#626262; font-size:18px; padding-left:15px;}
+#links-bg
+{height:40px; background-color:#ff0000;}
+.toplinks
+{width:110px; text-align:center; font-size:13px; font-weight:bold;}
+.toplinks a
+{color:#FFFFFF; text-decoration:none;}
+.toplinks a:hover
+{color:#111111; text-decoration:none;}
+.sap
+{width:1px; background-color:#CCCCCC;}
+.head2
+{font-family:tahoma; font-size:12px; font-weight:bold; color:#ffffff; height:35px; padding-left:12px; background-color:#969696; border-left:1px solid #ffffff;}
+.bottomlinks
+{width:110px; text-transform:uppercase; font-size:11px; font-weight:bold;text-align:center;}
+.bottomlinks a
+{color:#575757; text-decoration:none;}
+.bottomlinks a:hover
+{color:#000000;text-decoration:none;}
+.sap2{color:#575757;width:1px;}
+a{color:#ff0000; text-decoration:underline;}
+a:hover{color:#111111; text-decoration:none;}
+.pagelinks
+{ line-height:20px; color:#111111; width:60px;font-size:12px; font-weight:bold;text-align:center; background-color:#fbf89d; border:1px solid #ff0000;} 
+.pagelinks a
+{color:#111111; text-decoration:none;}
+.pagelinks a:hover
+{color:#ff0000; text-decoration:none; background-color:#111111; display:block;}
+#preview{ background-color:#fefae4; border:thin solid #fed49c;}
+#content .inner_copy {border:0;color:#f00;float:left;width:50%!important;margin:-202px 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:12px}
